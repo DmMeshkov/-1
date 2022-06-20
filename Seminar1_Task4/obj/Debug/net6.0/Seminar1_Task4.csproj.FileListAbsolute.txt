@@ -1,0 +1,15 @@
+B:\Git study\C#\Seminars\Seminar1_Task4\bin\Debug\net6.0\Seminar1_Task4.exe
+B:\Git study\C#\Seminars\Seminar1_Task4\bin\Debug\net6.0\Seminar1_Task4.deps.json
+B:\Git study\C#\Seminars\Seminar1_Task4\bin\Debug\net6.0\Seminar1_Task4.runtimeconfig.json
+B:\Git study\C#\Seminars\Seminar1_Task4\bin\Debug\net6.0\Seminar1_Task4.dll
+B:\Git study\C#\Seminars\Seminar1_Task4\bin\Debug\net6.0\Seminar1_Task4.pdb
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\Seminar1_Task4.csproj.AssemblyReference.cache
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\Seminar1_Task4.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\Seminar1_Task4.AssemblyInfoInputs.cache
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\Seminar1_Task4.AssemblyInfo.cs
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\Seminar1_Task4.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\Seminar1_Task4.dll
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\refint\Seminar1_Task4.dll
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\Seminar1_Task4.pdb
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\Seminar1_Task4.genruntimeconfig.cache
+B:\Git study\C#\Seminars\Seminar1_Task4\obj\Debug\net6.0\ref\Seminar1_Task4.dll
